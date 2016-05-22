@@ -1,9 +1,6 @@
 # LibAkmedrah
-#test
 Hello! Thank you for your interest in this library! At this time it is uncomplete please stand by for further notice Thanks! -Akmedrah
-
-Table of Contents
-
+# Table of Contents
 01............................................................................................................................Description
 02...............................................................................................................................Features
 03.......................................................................................................................Primary Commands
